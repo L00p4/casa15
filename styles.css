@@ -67,6 +67,7 @@ div.text-cards {
 }
 
 span.drag-hint {
+  padding-top: 2rem;
   position: absolute;
   bottom: 10px;
   right: 10px;
